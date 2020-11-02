@@ -3,6 +3,7 @@ a repo to be used to showcase git usage for data science.
 
 ##
 Requirements:
+
 - Python: 3.8.5
 
 ## Setup
