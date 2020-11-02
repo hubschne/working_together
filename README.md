@@ -1,5 +1,5 @@
 # working together
-a repo to be used to showcase git usage for data science
+a repo to be used to showcase git usage for data science.
 
 ##
 Requirements:
